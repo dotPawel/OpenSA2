@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1716928485494582}
+  m_IsPrefabParent: 1
+  m_IsExploded: 0
+--- !u!1 &1716928485494582
+GameObject:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 4155332157301083}
+  - 114: {fileID: 114154717070841657}
+  m_Layer: 0
+  m_Name: Arial
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4155332157301083
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1716928485494582}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &114154717070841657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1716928485494582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0251c263780973459bf86dee427b15f, type: 3}
+  m_Name:
+  xCount: 10
+  yCount: 10
+  kerning: 0.6
+  offset: 32
+  perCharacterKerning:
+  - character: 65
+    kerning: 0.66
+  - character: 69
+    kerning: 0.56
+  - character: 70
+    kerning: 0.54
+  - character: 71
+    kerning: 0.66
+  - character: 72
+    kerning: 0.62
+  - character: 73
+    kerning: 0.4
+  - character: 75
+    kerning: 0.66
+  - character: 77
+    kerning: 0.7
+  - character: 78
+    kerning: 0.66
+  - character: 79
+    kerning: 0.66
+  - character: 81
+    kerning: 0.66
+  - character: 85
+    kerning: 0.66
+  - character: 86
+    kerning: 0.66
+  - character: 87
+    kerning: 0.84
+  - character: 89
+    kerning: 0.66
+  - character: 97
+    kerning: 0.54
+  - character: 98
+    kerning: 0.54
+  - character: 99
+    kerning: 0.54
+  - character: 100
+    kerning: 0.54
+  - character: 101
+    kerning: 0.54
+  - character: 102
+    kerning: 0.44
+  - character: 103
+    kerning: 0.54
+  - character: 104
+    kerning: 0.54
+  - character: 105
+    kerning: 0.36
+  - character: 107
+    kerning: 0.6
+  - character: 106
+    kerning: 0.4
+  - character: 108
+    kerning: 0.36
+  - character: 109
+    kerning: 0.8
+  - character: 110
+    kerning: 0.54
+  - character: 111
+    kerning: 0.54
+  - character: 112
+    kerning: 0.54
+  - character: 113
+    kerning: 0.54
+  - character: 114
+    kerning: 0.44
+  - character: 115
+    kerning: 0.5
+  - character: 116
+    kerning: 0.5
+  - character: 117
+    kerning: 0.54
+  - character: 118
+    kerning: 0.6
+  - character: 119
+    kerning: 0.8
+  - character: 121
+    kerning: 0.54
+  - character: 122
+    kerning: 0.54
+  - character: 37
+    kerning: 0.8
+  - character: 46
+    kerning: 0.3
+  - character: 44
+    kerning: 0.3
+  - character: 45
+    kerning: 0.4

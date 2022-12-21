@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ObstacleEgzParticle0
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 51
+    isTriStrip: 2
+    triangleCount: 20
+    firstVertex: 0
+    vertexCount: 36
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.21073924, y: 0.21942493, z: 0.1432439}
+  m_MeshCompression: 0
+  m_IndexBuffer: 010000000300020002000800080004000d0005000c00090009000f000f000e000700060006000b000b001a0010001b001b000a000a001c0011001d001d001f001f001e0012001300130022002200200021002300230019001900190018001700160014001500
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 47
+    m_VertexCount: 36
+    m_Streams[0]:
+      channelMask: 47
+      offset: 0
+      stride: 52
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 1872
+    _typelessdata: 07cc57bebb8e2cbe792eb8bd653122bf24f6303f1aecb1be737373ffb4d1363f3ea8ce3da938f6bee15548355274603f0000803ff3013ebebd8e2cbe191c0bbe653122bf24f6303f1aecb1be737373ffb5da353f3ea8ce3df163f3be6243d73bfb37613f0000803f46fae23deeb0603e5988c33d653122bf24f6303f1aecb1be737373ffd6d1363fe61f2c3ead38f6be738b22355074603f0000803fef32133eebb0603e9839113d653122bf24f6303f1aecb1be737373ffb5da353fe61f2c3ebb5ef3be3cced83b5d39613f0000803f7d55243e82961c3e87ae123e96b61e3ff504353fc81aae3e737373ff210e333fc42b393e8fc41ebff004353fdde7adbe0000803f07cc573e82961c3e226b533d96b61e3ff504353fc81aae3e737373ff210e333f54ee2e3e1fbf1ebff104353fb1fbadbe0000803f00e430beeeb060be3c775abde5ae1b3f156938bfdfc7aa3e737373ff1f0b333f3ca8ce3d7a38f6be530c9e355f74603f000080bfc97e09beeeb060be39e2fcbde5ae1b3f156938bfdfc7aa3e737373ff937b303f3ea8ce3d7838f6bea4dca5355f74603f000080bfe541e83d6e91533ec97bf03d96b61e3ff504353fc81aae3e737373ff4bea343fc42b393e9ab61ebff204353fc51aaebe0000803f8297273e6991533e3751d33c96b61e3ff504353fc81aae3e737373ff4bea343f54ee2e3e97b61ebff204353fd01aaebe0000803fbdca55be859a36be74b695bd3251fdbe68a382bc226f5e3f737373ff78e7343f3ca8ce3da32d20bf6a4d333f04d6afbe000080bf85652ebe859a36be87ae12be8275e7bdf1cbf53efdb25ebf737373ff78e7343f3ca8ce3db1e344bf1815033f15d6c33e0000803fef32133eebb0603e9839113d96b61e3ff504353fc81aae3e737373fff35b353f04b3303effb21ebff204353fec27aebe0000803f46fae23deeb0603e5988c33d96b61e3ff504353fc81aae3e737373fff35b353f1467373ec8bd1ebff104353f9800aebe0000803f7d55243e82961c3e87ae123ee5ae1b3f156938bfdfc7aa3e737373ff1f0b333fe41f2c3e6c38f6be2a6ed8356274603f000080bf07cc573e82961c3e226b533de5ae1b3f156938bfdfc7aa3e737373ff937b303fe61f2c3e6b38f6be7f92de356374603f000080bf8297273e6991533e3751d33c8275e7bdf1cbf53efdb25ebf737373ff78e7343fe41f2c3e70e644bffc11033f5dd3c33e0000803fe541e83d6e91533ec97bf03d3251fdbe68a382bc226f5e3f737373ff78e7343fe41f2c3e8c2f20bf274b333f46d8afbe000080bfc97e09beeeb060be39e2fcbd2dd3ee3ed7c585bca96762bf737373ff4e0b333f3ea8ce3d7eb61ebf0f05353faf1aaebe0000803f07cc573e82961c3e226b533d2dd3ee3ed7c585bca96762bf737373ff4e0b333fe61f2c3e75b61ebf1a05353fa61aaebe0000803ff3013ebebd8e2cbe191c0bbe98b61ebff20435bfcd1aaebe737373fff35b353f04b3303e7eb61ebff504353f1f1baebe000080bf85652ebe859a36be87ae12be98b61ebff20435bfcd1aaebe737373ff4bea343f54ee2e3e98b61ebff504353fc01aaebe000080bfc97e09beeeb060be39e2fcbd98b61ebff20435bfcd1aaebe737373ff210e333f54ee2e3e91b61ebff504353fdb1aaebe000080bf07cc57bebb8e2cbe792eb8bd98b61ebff20435bfcd1aaebe737373fff35b353f1467373e8fb61ebff504353fe11aaebe000080bf00e430beeeb060be3c775abd98b61ebff20435bfcd1aaebe737373ff210e333fc42b393e99b61ebff504353fbc1aaebe000080bfbdca55be859a36be74b695bd98b61ebff20435bfcd1aaebe737373ff4bea343fc42b393e98b61ebff504353fbf1aaebe000080bff3013ebebd8e2cbe191c0bbe8275e7bdf1cbf53efdb25ebf737373ffb5da353f3ea8ce3de11349bfc76efc3ec38dbf3e0000803fef32133eebb0603e9839113d8275e7bdf1cbf53efdb25ebf737373ffb5da353fe61f2c3ebf1049bf3d76fc3e1291bf3e0000803f00e430beeeb060be3c775abd3251fdbe68a382bc226f5e3f737373ff1f0b333f3ca8ce3d99b61ebff204353fc51aaebe000080bf7d55243e82961c3e87ae123e3251fdbe68a382bc226f5e3f737373ff1f0b333fe41f2c3e97b61ebff504353fc21aaebe000080bf8297273e6991533e3751d33c2dd3ee3ed7c585bca96762bf737373ff78e7343fe41f2c3e87b31fbfd1e7333f101bafbe0000803f85652ebe859a36be87ae12be2dd3ee3ed7c585bca96762bf737373ff78e7343f3ca8ce3d9ab11fbf00ea333f1d19afbe0000803fe541e83d6e91533ec97bf03dfe464bbf16c2f53e1ff2be3e737373ff78e7343fe41f2c3eceeac0bd1b4b023f010a5bbf000080bf07cc57bebb8e2cbe792eb8bdfe464bbf16c2f53e1ff2be3e737373ffb4d1363f3ea8ce3d72e4cdbdcb5a003f40ff5bbf000080bfbdca55be859a36be74b695bdfe464bbf16c2f53e1ff2be3e737373ff78e7343f3ca8ce3d8dd9c0bdac4d023fb7085bbf000080bf46fae23deeb0603e5988c33dfe464bbf16c2f53e1ff2be3e737373ffd6d1363fe61f2c3efbdccdbde95b003fb5fe5bbf000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.21073924, y: 0.21942493, z: 0.1432439}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1

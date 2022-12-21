@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fd957c9e1da0fa14eb1ce7c2dc9df9b8
+timeCreated: 1666462193
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  objectHideFlags: 0
+  prefabParentObject: {fileID: 0}
+  prefabInternal: {fileID: 0}
+  name:
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 0}
